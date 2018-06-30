@@ -22,6 +22,7 @@
 #+COLUMNS: %40ITEM %10BEAMER_env(Env) %9BEAMER_envargs(Env Args) %4BEAMER_col(Col) %10BEAMER_extra(Extra)
 
 * Introduction
+
 ** A simple slide
 This slide consists of some text with a number of bullet points:
 
@@ -33,7 +34,6 @@ This slide consists of some text with a number of bullet points:
 
 The above list could be numbered or any other type of list and may
 include sub-lists.
-
 ** My second slide
 this is the conten
 *** I don't know how this will show up
