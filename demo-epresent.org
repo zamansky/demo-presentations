@@ -1,0 +1,24 @@
+#+OPTIONS: toc:nil num:nil
+* Slide 1
+This is the first slide
+
+* Slide 2
+
+This is the second slide
+** with a sub heading
+** or two
+
+* Slide 3
+
+| this | slide | has |
+|------+-------+-----|
+| a    | table | in  |
+| it   | ok    |     |
+
+
+* Slide 4
+
+#+BEGIN_SRC python
+print("HELLO")
+
+#+END_SRC
